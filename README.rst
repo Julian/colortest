@@ -12,9 +12,9 @@ colortest
   :alt: Supported Python versions
   :target: https://pypi.org/project/colortest/
 
-.. |Travis| image:: https://travis-ci.org/Julian/colortest.svg?branch=master
+.. |Travis| image:: https://travis-ci.com/Julian/colortest.svg?branch=master
   :alt: Travis build status
-  :target: https://travis-ci.org/Julian/colortest
+  :target: https://travis-ci.com/Julian/colortest
 
 .. |Codecov| image:: https://codecov.io/gh/Julian/colortest/branch/master/graph/badge.svg
   :alt: Codecov Code coverage
