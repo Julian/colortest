@@ -5,7 +5,6 @@ import click
 from colortest import __version__
 
 
-
 s = "/\\/\\/\\/\\/\\"
 
 
