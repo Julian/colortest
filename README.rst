@@ -2,7 +2,7 @@
 colortest
 =========
 
-|PyPI| |Pythons| |Travis| |Codecov|
+|PyPI| |Pythons| |CI| |Codecov|
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/colortest.svg
   :alt: PyPI version
@@ -12,9 +12,9 @@ colortest
   :alt: Supported Python versions
   :target: https://pypi.org/project/colortest/
 
-.. |Travis| image:: https://travis-ci.com/Julian/colortest.svg?branch=master
-  :alt: Travis build status
-  :target: https://travis-ci.com/Julian/colortest
+.. |CI| image:: https://github.com/Julian/colortest/workflows/CI/badge.svg
+  :alt: Build status
+  :target: https://github.com/Julian/colortest/actions?query=workflow%3ACI
 
 .. |Codecov| image:: https://codecov.io/gh/Julian/colortest/branch/master/graph/badge.svg
   :alt: Codecov Code coverage
